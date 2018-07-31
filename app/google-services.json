@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "378609198825",
+    "firebase_url": "https://dstask-2374e.firebaseio.com",
+    "project_id": "dstask-2374e",
+    "storage_bucket": "dstask-2374e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378609198825:android:11ebdc8da1c5b973",
+        "android_client_info": {
+          "package_name": "com.example.uchiha.dstask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378609198825-dnk00rni75pqprlecgervkkrls55fak1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uchiha.dstask",
+            "certificate_hash": "7fadd4daafc8d33bffcc0e1fe3206da31a4c9609"
+          }
+        },
+        {
+          "client_id": "378609198825-etq1dv55vhgqsf7u9232nsi9rrp8gqc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcPYEwlCkYo0VXvJAmGP36UInGO2abqIM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378609198825-etq1dv55vhgqsf7u9232nsi9rrp8gqc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
